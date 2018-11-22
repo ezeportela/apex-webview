@@ -1,5 +1,5 @@
 {
-  "name": "WebViewRegionPlugin",
+  "name": "WebView Region Plugin",
   "version": "1.0",
   "description": "Oracle APEX Region Plugin for displays pages from the same application or other sites.",
   "keywords": [
@@ -33,7 +33,8 @@
     ],
     "apex": {
       "versions": [
-        "18.1.0.00.45"
+        "18.1.0",
+        "18.2.0"
       ],
       "plugin": {
         "internalName": "COM.EPORTELA.WEBVIEW",
