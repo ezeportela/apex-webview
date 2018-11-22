@@ -28,7 +28,8 @@
   "oracle": {
     "versions": [
       "11.2.0.1",
-      "12.1.0.1"
+      "12.1.0.1",
+      "18.1.0.1"
     ],
     "apex": {
       "versions": [
@@ -38,7 +39,7 @@
         "internalName": "COM.EPORTELA.WEBVIEW",
         "type": "region",
         "demo": "https://apex.oracle.com/pls/apex/f?p=apexjs:webview",
-        "previewImage": "https://raw.githubusercontent.com/eportela/apex-webview/master/preview.gif"
+        "previewImage": "https://github.com/ezeportela/apex-webview/blob/master/preview.gif?raw=true"
       }
     }
   }
