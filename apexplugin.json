@@ -1,6 +1,7 @@
 {
   "name": "WebView Region Plugin",
   "version": "1.0",
+  "release": "1.0",
   "description": "Oracle APEX Region Plugin for displays pages from the same application or other sites.",
   "keywords": [
     "region type plugin",
