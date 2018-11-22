@@ -1,7 +1,6 @@
 {
   "name": "WebView Region Plugin",
-  "version": "1.0",
-  "release": "1.0",
+  "version": "0.1",
   "description": "Oracle APEX Region Plugin for displays pages from the same application or other sites.",
   "keywords": [
     "region type plugin",
@@ -20,7 +19,7 @@
     "email": "eportelab@gmail.com",
     "url": "http://apexjs.blogspot.com",
     "twitter": "eportelab",
-    "donationUrl": "paypal.me/ezeportela"
+    "donationUrl": "https://paypal.me/ezeportela"
   },
   "repository": {
     "type": "git",
