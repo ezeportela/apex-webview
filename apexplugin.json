@@ -1,0 +1,45 @@
+{
+  "name": "WebView Region Plugin",
+  "version": "1.0.0",
+  "description": "Oracle APEX Region Plugin for displays pages from the same application or other sites.",
+  "keywords": [
+    "region type plugin",
+    "webview",
+    "iframe",
+    "web"
+  ],
+  "homepage": "https://github.com/ezeportela/apex-webview",
+  "bugs": {
+    "url": "https://github.com/ezeportela/apex-webview/issues",
+    "email": "eportelab@gmail.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Ezequiel Portela",
+    "email": "eportelab@gmail.com",
+    "url": "http://apexjs.blogspot.com",
+    "twitter": "eportelab",
+    "donationUrl": "paypal.me/ezeportela"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ezeportela/apex-webview"
+  },
+  "oracle": {
+    "versions": [
+      "11.2.0.1",
+      "12.1.0.1"
+    ],
+    "apex": {
+      "versions": [
+        "18.1.0.00.45"
+      ],
+      "plugin": {
+        "internalName": "COM.EPORTELA.WEBVIEW",
+        "type": "region",
+        "demo": "https://apex.oracle.com/pls/apex/f?p=apexjs:webview",
+        "previewImage": "https://raw.githubusercontent.com/eportela/apex-webview/master/preview.gif"
+      }
+    }
+  }
+}

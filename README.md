@@ -29,3 +29,7 @@ Item | Description
 
 Demo is avalaible [here](https://apex.oracle.com/pls/apex/f?p=1448:3::::::)
 
+# Preview
+
+![preview](preview.gif)
+
